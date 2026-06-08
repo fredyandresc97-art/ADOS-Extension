@@ -1,0 +1,4 @@
+title: "Eliminar\nhabitaciones vacías"
+tooltip: "Elimina las habitaciones del modelo que no contienen área o se encuentran sin asignar."
+script: script.py
+large: true

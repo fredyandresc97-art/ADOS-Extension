@@ -1,0 +1,4 @@
+title: "Acero\nC. Corridos"
+tooltip: "Crea acero de forma automatica en cimientos corridos."
+script: script.py
+large: true

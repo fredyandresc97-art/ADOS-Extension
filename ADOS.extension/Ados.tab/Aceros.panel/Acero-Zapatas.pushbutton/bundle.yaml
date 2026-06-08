@@ -1,0 +1,4 @@
+title: "Acero\nZapatas"
+tooltip: "Crea refuerzos en las zapatas del modelo."
+script: script.py
+large: true

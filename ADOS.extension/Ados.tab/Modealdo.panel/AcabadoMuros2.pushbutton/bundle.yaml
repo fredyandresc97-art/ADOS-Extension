@@ -1,0 +1,4 @@
+title: "A. Muros\nEspeciales"
+tooltip: "Crea acabados automáticos en muros no básicos, seleccionando las caras donde se desea aplicar el acabado. El sistema copia la forma del muro seleccionado."
+script: script.py
+large: true

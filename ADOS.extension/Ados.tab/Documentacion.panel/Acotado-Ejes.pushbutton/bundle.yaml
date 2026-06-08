@@ -1,0 +1,4 @@
+title: "Acotar\nEjes"
+tooltip: "Crea acotaciones automáticas de ejes a partir de los ejes seleccionados."
+script: script.py
+large: true

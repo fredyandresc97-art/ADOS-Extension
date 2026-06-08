@@ -1,0 +1,4 @@
+title: "A. Suelos\nHabitacion"
+tooltip: "Crea los acabados de suelos a partir de una habitación previamente definida. Para que el programa funcione correctamente, el usuario debe cerrar manualmente el polígono con precisión, contorneando cada cara y forma de la habitación y respetando la separación entre ellas."
+script: script.py
+large: true

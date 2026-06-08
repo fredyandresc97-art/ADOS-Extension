@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python -c \"import ast; content=open\\(r'c:\\\\Users\\\\fredy\\\\Downloads\\\\Acabados_por_Espacio_3.py', encoding='utf-8-sig'\\).read\\(\\); ast.parse\\(content\\); print\\('Sintaxis OK'\\)\")"
+    ]
+  }
+}

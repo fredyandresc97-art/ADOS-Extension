@@ -1,0 +1,4 @@
+title: "Cortar\nAcero"
+tooltip: "Permite cortar el acero en la posición deseada."
+script: script.py
+large: true

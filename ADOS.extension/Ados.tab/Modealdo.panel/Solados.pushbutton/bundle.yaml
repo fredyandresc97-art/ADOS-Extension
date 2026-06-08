@@ -1,0 +1,4 @@
+title: "Solados"
+tooltip: "Crea solados de forma automática en zapatas y vigas. Si una viga está conectada a una columna, el solado se extiende hasta la cara de la columna."
+script: script.py
+large: true

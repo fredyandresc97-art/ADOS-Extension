@@ -1,0 +1,4 @@
+title: "Acotar\nElementos Est."
+tooltip: "Crea acotaciones automáticas de elementos estructurales a partir de los seleccionados."
+script: script.py
+large: true

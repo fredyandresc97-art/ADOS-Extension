@@ -1,0 +1,4 @@
+title: "Acero\nVigas"
+tooltip: "Crea acero longitudinal de manera automática en vigas, el acero se instala de manera igual para todas las vigas seleccionadas"
+script: script.py
+large: true

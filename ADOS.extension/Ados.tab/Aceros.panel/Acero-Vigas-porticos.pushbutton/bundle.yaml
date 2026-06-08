@@ -1,0 +1,4 @@
+title: "Acero V.\nContinuas"
+tooltip: "Crea acero longitudinal de manera automática en vigas continuas, considerando todas las columnas que atraviesan la viga. el acero se extiende desde la primera columna hasta la última, el programa solo permite seleccionar vigas que pertenecen al mismo portico."
+script: script.py
+large: true

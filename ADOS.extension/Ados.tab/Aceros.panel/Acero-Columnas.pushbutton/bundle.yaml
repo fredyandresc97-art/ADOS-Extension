@@ -1,0 +1,4 @@
+title: "Acero\nColumnas"
+tooltip: "Crea acero longitudinal de manera automática en las columnas del modelo."
+script: script.py
+large: true

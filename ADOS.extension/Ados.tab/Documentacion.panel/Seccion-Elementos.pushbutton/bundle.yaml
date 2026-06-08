@@ -1,0 +1,4 @@
+title: "Seccion\nElementos Est."
+tooltip: "Crea secciones de elementos estructurales a partir de una selección."
+script: script.py
+large: true

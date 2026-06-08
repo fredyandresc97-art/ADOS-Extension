@@ -1,0 +1,4 @@
+title: "Generar\nplanos"
+tooltip: "Crea hojas de plano en blanco con nomenclatura definida."
+script: script.py
+large: true

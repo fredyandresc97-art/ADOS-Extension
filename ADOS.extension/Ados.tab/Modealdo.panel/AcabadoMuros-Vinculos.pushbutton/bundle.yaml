@@ -1,0 +1,4 @@
+title: "Acabados\nCon Vinculos"
+tooltip: "Crea acabados en muros existentes, respetando los límites de elementos vinculados como columnas. Ideal para aplicar el primer acabado directamente sobre el muro base. No genera envolventes."
+script: script.py
+large: true

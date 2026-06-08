@@ -1,0 +1,4 @@
+title: "Acero\nMuros"
+tooltip: "Crea refuerzos en los muros del modelo."
+script: script.py
+large: true

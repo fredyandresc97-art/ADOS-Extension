@@ -1,0 +1,4 @@
+title: "Acabados\n en Muros"
+tooltip: "Crea acabados de forma automática en muros, seleccionando las caras donde se desea aplicar el acabado. El programa se encarga de extender los acabados para generar una envolvente continua"
+script: script.py
+large: true

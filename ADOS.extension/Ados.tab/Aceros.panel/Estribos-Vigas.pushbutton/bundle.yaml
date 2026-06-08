@@ -1,0 +1,4 @@
+title: "Estribos\nVigas"
+tooltip: "Crea estribos de manera automática en las vigas del modelo."
+script: script.py
+large: true

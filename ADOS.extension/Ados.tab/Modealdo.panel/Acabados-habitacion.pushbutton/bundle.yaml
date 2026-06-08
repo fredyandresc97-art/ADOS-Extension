@@ -1,0 +1,4 @@
+title: "Acabados\nHabitación"
+tooltip: "Crea el acabado de una habitación. Para que el programa funcione correctamente, el usuario debe cerrar manualmente el polígono con precisión, contorneando cada cara y forma de la habitación y respetando la separación entre espacios"
+script: script.py
+large: true
